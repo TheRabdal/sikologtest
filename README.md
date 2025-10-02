@@ -35,5 +35,4 @@ DISC merupakan model perilaku yang membantu setiap manusia memahami“mengapa se
 ## Donasi
 - donasi via bagibagi [https://bagibagi.co/therabdal]
 
-"# disc_id" 
 
